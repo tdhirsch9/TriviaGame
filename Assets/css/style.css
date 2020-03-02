@@ -1,0 +1,32 @@
+body{
+    background-image: url("Assets\images\coolbackground.png");
+    background-size: cover;
+    background-color: #cccccc;
+  }
+
+.container{
+    position: relative;
+    margin-top: 100px;
+    background-color: rgb(2, 0, 97);
+}
+
+#title{
+   color: rgb(20, 220, 37);
+    text-align: center;
+   
+}
+
+#questions{
+    text-align: center;
+    color: white;
+}
+
+#startButton{
+    position: relative;
+    left: 48%;
+}
+
+.questionTitles{
+    font-size: 21px;
+    font-weight: bold;
+}
